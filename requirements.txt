@@ -1,0 +1,9 @@
+fastapi==0.103.0  # FastAPI framework for building web APIs
+uvicorn==0.23.2   # ASGI server to run the FastAPI application
+pandas==2.2.2     # For CSV file handling
+python-dotenv==1.0.1  # For loading environment variables
+langchain==0.3.11  # Core LangChain library
+langchain-experimental==0.3.3  # For experimental LangChain features
+cohere==5.13.3    # Cohere LLM
+langchain-cohere==0.3.3 # Cohere extensions for langchain
+python-multipart==0.0.6  # For file upload handling in FastAPI
